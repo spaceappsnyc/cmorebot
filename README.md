@@ -1,1 +1,3 @@
 # cmorebot
+Data+Empathy=Social Change. We want everyone in the world to have the ability to test environmental elements that may be of concern in their neighborhoods, particularly water. Using a robot to collect data makes sense, because it provides safety for people. It also allows data streams to be sent to a site for visualization, such as charts and geographic location. The sensors in our prototype were created swiftly thanks to an Intel Edison board and its complement of sensors. Currently we have a temperature sensor,  light sensor and GPS. We will expand to include  many other environmental and chemical sensors.
+
